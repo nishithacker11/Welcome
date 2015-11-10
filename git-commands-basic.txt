@@ -18,7 +18,7 @@ git checkout -b NEWBRANCHNAME
 git checkout BRANCHNAME
  -- Changes your working branch to BRANCHNAME
 
-git push BRANCHNAME
+git push origin BRANCHNAME
  -- Once you have created a new branch you need to push the branch to the servers. If you find error in this step, go to file browser(explorer) and type .git in file searcher and select "config" file and add the following code snippet at the end of config file
 [user]
     name = YOUR_NAME
