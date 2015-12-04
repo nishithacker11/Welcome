@@ -5,17 +5,20 @@ In ideas.txt file ideas on projects to work upon are posted.
 
 #Members List
 
-Name 			| 	Profile
+Name 			| 	Profile Link
 ------------ 	| -------------
-Arvind iyer		| [Arvindiyer](https://github.com/arvindiyer)  
+Arvind Iyer		| [Arvindiyer](https://github.com/arvindiyer)  
 Rohit Patel 	| [Rohitpa7824](https://github.com/Rohitpa7824)
 Vatsal Patel 	| [buzz2vatsal](https://github.com/buzz2vatsal) 
+Nikita Sure		| [nikita08](https://github.com/nikita08)
+Gazala			| [Gazala1996](https://github.com/Gazala1996)
+Vatsal Trivedi	| [vattytrivedi](https://github.com/vattytrivedi)
 
 #Contributors List
 
-Thanks to these awseome pepole to helping out . 
+Thanks to these awesome pepole :heart: to helping out . 
 
-Name 			| 	Profile
+Name 			| 	Profile Link
 ------------ 	| -------------
 Dhruvin Gandhi  | [dhruvin2910](https://github.com/dhruvin2910)
 
