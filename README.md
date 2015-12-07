@@ -13,6 +13,7 @@ Vatsal Patel 	| [buzz2vatsal](https://github.com/buzz2vatsal)
 Nikita Sure		| [nikita08](https://github.com/nikita08)
 Gazala			| [Gazala1996](https://github.com/Gazala1996)
 Vatsal Trivedi	| [vattytrivedi](https://github.com/vattytrivedi)
+Heta Desai		| [hetadesai26](https://github.com/hetadesai26)
 
 #Contributors List
 
